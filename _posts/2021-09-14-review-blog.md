@@ -25,4 +25,4 @@ The **Visual Works tab** provides authentic pictures taken in Washington during 
  
 The **Interpretations tab** contains several essays written by the authors of Civil War Washington. These essays allow readers the opportunity to better understand the values and biases that may have influenced the project. Furthermore, many of the essays dive deep into the issues unfolding in Washington and provide remarkable coverage of the topics. 
 
-The project overall is a remarkable resource which shines a light on the environment in Washington during the civil war. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters. The project is very user friendly with every section and tab containing instructions on functionality.
+The project overall is a remarkable resource which shines a light on the civil war environment in Washington. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters. The project is very user friendly with every section and tab containing instructions on functionality.
