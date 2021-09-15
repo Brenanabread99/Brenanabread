@@ -6,6 +6,6 @@
 
 ## Project UR*L: https://civilwardc.org/
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/screenshot.jpg)
+![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/screenshot.png)
 
 ### *Summary*
