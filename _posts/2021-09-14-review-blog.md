@@ -20,10 +20,11 @@ Civil War Washington exposes readers to an exponential amount of data and resour
 
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map.png)
-
+![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
 
 The map does however contain several flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
+
+![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/New.png)
 
 The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
 
