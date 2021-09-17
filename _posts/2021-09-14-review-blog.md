@@ -20,20 +20,20 @@ Civil War Washington exposes readers to an exponential amount of data and resour
 
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
+![Map of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
 
 The map does however contains a couple flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/New.png)
+![Errors with Civil War Map](https://brenanabread99.github.io/Brenanabread/images/New.png)
 
 The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
 
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Data2.png)
+![Features and flaws with data tab](https://brenanabread99.github.io/Brenanabread/images/Data2.png)
 
 The **Visual Works tab** provides authentic pictures taken in Washington during the Civil War. The pictures contain minimal information regrding the context of the photos. Yet even without the context, the photos allow readers to immerse themselves in Washington during this chaotic period. 
 
-![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Art2.png)
+![Visual Works Tab homepage](https://brenanabread99.github.io/Brenanabread/images/Art2.png)
 
 The **Interpretations tab** contains several essays written by the authors of Civil War Washington. These essays educate readers on the values and biases that may have influenced the project. Furthermore, many of the essays dive deep into the issues unfolding in Washington. The essays cover topics such as medical cases, emancipations, hospitals, and segregation just to name a few. The analysis itself comes from every conceivable perspective thus providing a clear picture of each topic.
 
