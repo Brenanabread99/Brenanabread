@@ -22,7 +22,7 @@ The **Maps tab** contains information regarding both the maps’ purpose and how
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
 
-The map does however contain several flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
+The map does however contains a couple flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/New.png)
 
