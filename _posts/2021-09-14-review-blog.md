@@ -8,7 +8,7 @@
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/screenshot.png)
 
-Civil War Washington both archives and interprets **data, texts, maps, and visual works** from Washington D.C. during the civil war. The project seeks to display the rapid transition which occurred in Washington once the civil war broke out. It reveals the perspectives of individuals from all walks of life and their experiences within the city.
+Civil War Washington both *archives* and *interprets* **data, texts, maps, and visual works** from Washington D.C. during the civil war. The project seeks to display the rapid transition which occurred in Washington once the civil war broke out. It reveals the perspectives of individuals from all walks of life and their experiences within the city.
 
 ### *Design*
 
