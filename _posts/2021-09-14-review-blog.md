@@ -30,6 +30,8 @@ The **Data** and **Texts tabs** both contain search bars allowing users to easil
 
 The **Visual Works tab** provides authentic pictures taken in Washington during the civil war. These photos allow users to immerse themselves in Washington during this chaotic period. 
 
+![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Art.png)
+
 The **Interpretations tab** contains several essays written by the authors of Civil War Washington. These essays educate readers on the values and biases that may have influenced the project. Furthermore, many of the essays dive deep into the issues unfolding in Washington. The essays cover topics such as medical cases, emancipations, hospitals, and segregation just to name a few. The analysis itself comes from every conceivable perspective thus providing a clear picture of each topic.
 
 The project overall is a remarkable resource that shines a light on the environment in Washington during the civil war. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters. The project is very user-friendly with every section and tab containing instructions on functionality.
