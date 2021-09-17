@@ -14,6 +14,9 @@ Civil War Washington both *archives* and *interprets* **data, texts, maps, and v
 
 The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project's homepage features an easy-to-navigate display of all the tabs available to users. Once a tab is selected, readers are instructed upon the purpose of the tab at the top of each webpage. This feature greatly helps readers by preventing them from scanning the full webpage in search of its purpose. In addition, while using the site, a toolbar is accessible at the top of each webpage providing access to other tabs. This design allows readers to explore the site without the difficulty of getting lost along the way. 
 
+
+![Design of site example](https://brenanabread99.github.io/Brenanabread/images/design2.png)
+
 ### *Findings*
 
 Civil War Washington exposes readers to an exponential amount of data and resources in organized tabs that are easy to navigate. The **Introduction tab** design sets the scene for wartime Washington through extensive narrative texts and ellaborates on the countless resources used for the project. The information provided here lays the necessary groundwork needed in understanding the resources provided within the other tabs.
