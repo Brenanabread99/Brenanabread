@@ -12,20 +12,20 @@ Civil War Washington both archives and interprets data, texts, and visual works 
 
 ### *Design*
 
-The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project's homepage features an easy-to-navigate display of all the tabs available to users. Once a tab is selected, the user is instructed upon the purpose of the tab at the top of each webpage. In addition, while using the site, a toolbar is accessible at the top of each webpage ensuring other tabs to be accessible.
+The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project's homepage features an easy-to-navigate display of all the tabs available to users. Once a tab is selected, readers are instructed upon the purpose of the tab at the top of each webpage. This feature greatly helps readers by preventing them from scanning the full webpage in search of its purpose. In addition, while using the site, a toolbar is accessible at the top of each webpage providing access to other tabs. This design allows readers to explore the site without the difficulty of getting lost along the way. 
 
 ### *Findings*
 
-Civil War Washington masterfully exposes users to an exponential amount of data and resources in tabs that are easy to navigate. The **Introduction tab** is creatively designed to set the scene for the time through extensive narrative texts. The information provided here lays the necessary groundwork needed in understanding the resources provided within the other tabs.
+Civil War Washington exposes readers to an exponential amount of data and resources in organized tabs that are easy to navigate. The **Introduction tab** is creatively designed to set the scene for the time through extensive narrative texts. The information provided here lays the necessary groundwork needed in understanding the resources provided within the other tabs.
 
-The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. This addition is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
+The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map.png)
 
 
 The map does however contain several flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
 
-The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data download it offers. Aside from this, both the tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
+The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
 
 The **Visual Works tab** provides authentic pictures taken in Washington during the civil war. These photos allow users to immerse themselves in Washington during this chaotic period. 
 
@@ -35,3 +35,4 @@ The project overall is a remarkable resource that shines a light on the environm
 
 ### Credits
 
+In the project's Acknowledgements section, 
