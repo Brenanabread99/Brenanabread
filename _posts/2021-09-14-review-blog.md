@@ -28,7 +28,7 @@ The map does however contains a couple flaws. The interactive map key overlaps i
 
 The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
 
-The **Visual Works tab** provides authentic pictures taken in Washington during the Civil War. These photos allow users to immerse themselves in Washington during this chaotic period. 
+The **Visual Works tab** provides authentic pictures taken in Washington during the Civil War. The pictures contain minimal information regrding the context of the photos. Yet even without the context, the photos allow readers to immerse themselves in Washington during this chaotic period. 
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Art2.png)
 
@@ -37,4 +37,4 @@ The **Interpretations tab** contains several essays written by the authors of Ci
 The project overall is a remarkable resource that shines a light on the environment in Washington during the Civil War. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters.
 
 ### Credit
-This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License. The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project. The rights to the images and documents presented are owned by various individuals and institutions.
+This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License and the rights to the images and documents presented are owned by various individuals and institutions. The publishing was released under a Creative Commons License and The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project.
