@@ -32,7 +32,7 @@ The map does however contains a couple flaws. The interactive map key overlaps i
 The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
 
 
-![Features and flaws with data tab](https://brenanabread99.github.io/Brenanabread/images/Data2.png)
+![Features and flaws of data tab](https://brenanabread99.github.io/Brenanabread/images/Data2.png)
 
 The **Visual Works tab** provides authentic pictures taken in Washington during the Civil War. The pictures contain minimal information regrding the context of the photos. Yet even without the context, the photos allow readers to immerse themselves in Washington during this chaotic period. 
 
