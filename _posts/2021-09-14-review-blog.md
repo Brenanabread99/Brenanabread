@@ -8,7 +8,7 @@
 
 ![Homepage of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/screenshot.png)
 
-Civil War Washington both archives and interprets data, texts, and visual works from Washington D.C. during the civil war. The project seeks to display the rapid transition which occurred in Washington once the civil war broke out. It reveals the perspectives of individuals from all walks of life and their experiences within the city.
+Civil War Washington both archives and interprets **data, texts, maps, and visual works** from Washington D.C. during the civil war. The project seeks to display the rapid transition which occurred in Washington once the civil war broke out. It reveals the perspectives of individuals from all walks of life and their experiences within the city.
 
 ### *Design*
 
@@ -37,4 +37,4 @@ The **Interpretations tab** contains several essays written by the authors of Ci
 The project overall is a remarkable resource that shines a light on the environment in Washington during the civil war. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters. The project is very user-friendly with every section and tab containing instructions on functionality.
 
 ### Credit
-This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License. The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project. The rights to the images and documents presented in this project are owned by various individuals and institutions.
+This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License. The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project. The rights to the images and documents presented are owned by various individuals and institutions.
