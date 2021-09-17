@@ -36,6 +36,5 @@ The **Interpretations tab** contains several essays written by the authors of Ci
 
 The project overall is a remarkable resource that shines a light on the environment in Washington during the civil war. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters. The project is very user-friendly with every section and tab containing instructions on functionality.
 
-### Credits
-
-In the project's Acknowledgements section, 
+### Credit
+This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License. The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project. The rights to the images and documents presented in this project are owned by various individuals and institutions.
