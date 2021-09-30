@@ -16,6 +16,7 @@ So, I began collecting different forms of media throughout the day to document w
 As this media was collected from throughout my day, My routine began to form into a coherent story. A story which just barely met the criteria for ten parts. Once the data collection was finished, I attempted to transfer my media into Thinglink. 
 
 **Creating the Map**
+
 Transferring the videos to my computer and then into Thinglink was more difficult than was expected. After multiple unsuccessful attempts, An easier method was employed by simply uploading the videos directly into Thinglink from my phone. After realizing the simplicity of the user interface, I continued designing my interactive map from my phone. 
 
 During the creation of the different icons on the map, They were numbered one through ten to display the progression of the day. I attempted to create personalized icons which would display what time each part of the day started. However, after attempting this for a significant amount of time, the idea was abandoned and simpler option was used. 
