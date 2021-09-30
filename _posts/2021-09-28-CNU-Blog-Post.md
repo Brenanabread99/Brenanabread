@@ -1,3 +1,5 @@
+<iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499039690555129859" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+
 I had a difficult time developing an idea for the map project. As both a commuter and a transfer student, I have very few good stories worth telling about my time here at CNU. During a brainstorming session in class, I thought maybe I could create a fictional story. While I thought this idea was gold, neither my professor nor the others at my table were thrilled with the idea. 
 
 I also considered telling the story of how I transferred into the university. I began brainstorming the idea, but quickly realized there is not much of a story to tell. While the transfer into CNU was a rough transition, most of my experiences were isolated events which do not form a coherent story.
