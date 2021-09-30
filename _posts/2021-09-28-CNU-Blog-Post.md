@@ -1,5 +1,6 @@
 <iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499039690555129859" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
+
 **Developing the Topic**
 I had a difficult time developing an idea for the map project. As both a commuter and a transfer student, I have very few good stories worth telling about my time here at CNU. During a brainstorming session in class, the thought of possibly creating a fictional story arose. While this idea seemeed like a perfect solution, neither my professor nor the others at my table were thrilled with the idea. 
 
