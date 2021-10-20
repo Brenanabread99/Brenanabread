@@ -23,10 +23,12 @@ Land-grab Universities **overview tab** is the first tab displayed when users fi
 
 ![Progression of changing Map 1 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap1.png)![Progression of changing Map 2 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap2.png)![Progression of changing Map 3 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
 
-Once users scroll past this first feature on the **overview tab**, A brief introduction is provided and a toolbar appears at the top of the screen. This enables users to jump to differnt tabs.
+Once users scroll past this first feature on the **overview tab**, A brief introduction is provided. It provides a wealth of information that may overwhelm the average reader. It also condences the topic into three brief and concise paragraghs. While this may seem helpful, the information provided is not simplified and if misunderstood, the rest of the site will not be understandable.
 
+On a more positive note, a toolbar appears at the top of the screen once the initial introduction section is scrolled past. The toolbar enables users to jump to differnt tabs.
 ![Picture of toolbar which appears](https://brenanabread99.github.io/Brenanabread/images/toolbar.png)
 
+As users scroll past the introduction, they come across an interative map. 
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
 ![Map of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
