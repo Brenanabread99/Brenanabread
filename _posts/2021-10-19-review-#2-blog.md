@@ -21,7 +21,7 @@ The project equips the proper coding to allow ease of use on laptops, desktops, 
 
 Land-grab Universities **overview tab** is the first tab displayed when users first enter the site. The site's purpose is then easily explained through the use of a map which instructs users to scroll through it. As this is done, the map changes as users scroll through diffent series of text. 
 
-![Progression of changing Map](https://brenanabread99.github.io/Brenanabread/images/usmap1.png)(https://brenanabread99.github.io/Brenanabread/images/usmap2.png)(https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
+![Progression of changing Map](((https://brenanabread99.github.io/Brenanabread/images/usmap1.png)(https://brenanabread99.github.io/Brenanabread/images/usmap2.png))(https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
 
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
