@@ -8,51 +8,32 @@
 
 ![Homepage of Land-Grab Universities](https://brenanabread99.github.io/Brenanabread/images/screenshot2.png)
 
-Land-Grab Universities creates a detailed acount of how the United States funded land-grant universities with land taken from Indigenous people groups. The project seeks to display how land granted to the universities was unfairly taken from indigenos people and used to fund universites that may be thousands of miles away.. It reveals how in every case the land turned an exponetial profit for university funding while the those forced off the land received little to no compensation.
+Land-Grab Universities creates a detailed account of how the United States funded land-grant universities with land taken from Indigenous people groups. The project seeks to display how land granted to the universities was unfairly taken from indigenous people and used to fund universities that may be thousands of miles away. It reveals how in every case the land turned an exponential profit for university funding while the those forced off the land received little to no compensation.
 
 ### *Design*
 
-The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project itself organizes the vast amont of information it provides into several different tabs. The tabs consist of the following: *Overview, Universities, Nations, Lands, and Stories*. This design helps readers find the information they are seeking without having to search through the whole site.  
+The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project itself organizes the vast amount of information it provides into several different tabs. The tabs consist of the following: *Overview, Universities, Nations, Lands, and Stories*. This design helps readers find the information they are seeking without having to search through the whole site.  
 
 
 ![Design of site example](https://brenanabread99.github.io/Brenanabread/images/design4.png)
 
 ### *Findings*
 
-Land-grab Universities **overview tab** is the first tab displayed when users first enter the site. The site's purpose is then easily explained through the use of a map which instructs users to scroll through it. As this is done, the map changes as users scroll through diffent series of text. The progression of a few map changes is shown below.
+Land-grab Universities **overview tab** is the first tab displayed when users first enter the site. The site's purpose is then easily explained through the use of a map which instructs users to scroll through it. As this is done, the map changes as users scroll through different series of text. The progression of a few map changes is shown below.
 
 ![Progression of changing Map 1 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap1.png)![Progression of changing Map 2 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap2.png)![Progression of changing Map 3 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
 
-Once users scroll past this first feature on the **overview tab**, A brief introduction is provided. It provides a wealth of information that may overwhelm the average reader. It also condences the topic into three brief and concise paragraghs. While this may seem helpful, the information provided is not simplified and if misunderstood, the rest of the site will not be understandable.
+Once users scroll past this first feature on the **overview tab**, A brief introduction is provided. It provides a wealth of information that may overwhelm the average reader. It also condenses the topic into three brief and concise paragraphs. While this may seem helpful, the information provided is not simplified and if misunderstood, the rest of the site will not be understandable.
 
-On a more positive note, a toolbar appears at the top of the screen once the initial introduction section is scrolled past. The toolbar enables users to jump to differnt tabs.
+On a more positive note, a toolbar appears at the top of the screen once the initial introduction section is scrolled past. The toolbar enables users to jump to different tabs.
 
 ![Picture of toolbar which appears](https://brenanabread99.github.io/Brenanabread/images/toolbar.png)
 
-As users scroll past the introduction, they come across an interative map. The map itself displays the land-grants provided to 52 different universities. These thousands of parcels of land all across the country could then be sold to fund the building of the universities. The lines branching across the map demonstrate the distance between the universities and the parcels of land they were granted to sell. The map is very visually appealing. However, as mentioned earlier, if the breif introduction is misunderstood, the map is not going to be remotely understandable. 
+As users scroll past the introduction, they come across an interactive map. The map itself displays the land-grants provided to 52 different universities. These thousands of parcels of land all across the country could then be sold to fund the building of the universities. The lines branching across the map demonstrate the distance between the universities and the parcels of land they were granted to sell. The map is very visually appealing. However, as mentioned earlier, if the brief introduction is misunderstood, users will be confused, and the map is not going to be remotely understandable. There are no instructions for the map, nor are there explanations of what the colorful arching lines are meant to display.
 
 ![Interactive Map](https://brenanabread99.github.io/Brenanabread/images/colormap.png)
 
-The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
+Even in light of this, the map has several helpful ways it can be interacted with. It allows users see all the land-grants provided in the United States and also allows individual states to be singled out. The map is able to be toggled between both a plain black map and a satellite map. Users are also able to add/remove state boundaries, Indigenous Cessions, and Land-University Links. The map allows a user's location to be accessed so readers can view land-grants in their own area. Lastly, the perspective of the map can be easily adjusted to provide better perspectives.
 
-![Map of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
+However, with the numerous benefits of this map, there are also a few flaws. The map does allow for it to be put into full screen. Adding this feature would greatly improve a user's experience. The ways to modify the map are displayed on the map itself thus impairing the view. Allowing these map modifications to be hidden would greatly improve the maps functionality.  
 
-The map does however contains a couple flaws. The interactive map key overlaps itself rendering it partially useless. Additionally, numerous points on the map do not have links to information even when it is available. For example, the bawdy houses contain the names of the homeowners. However, it does not provide links to the additional information available in the data tab. Lastly, two of the maps provided are not large enough to display all the points provided. The outmost points are then displayed in a white void thus defeating the purpose of the map.
-
-![Errors with Civil War Map](https://brenanabread99.github.io/Brenanabread/images/New.png)
-
-The **Data** and **Texts tabs** both contain search bars allowing users to easily locate specific information. The data tab in particular contains a flaw where four out of five links do not actually lead to the data downloads they offer. Aside from this though, both tabs have an added feature allowing users to freely browse various categories (people, places, newspapers, medical cases, etc.). 
-
-
-![Features and flaws of data tab](https://brenanabread99.github.io/Brenanabread/images/Data2.png)
-
-The **Visual Works tab** provides authentic pictures taken in Washington during the Civil War. The pictures contain minimal information regrding the context of the photos. Yet even without the context, the photos allow readers to immerse themselves in Washington during this chaotic period. 
-
-![Visual Works Tab homepage](https://brenanabread99.github.io/Brenanabread/images/Art2.png)
-
-The **Interpretations tab** contains several essays written by the authors of Civil War Washington. These essays educate readers on the values and biases that may have influenced the project. Furthermore, many of the essays dive deep into the issues unfolding in Washington. The essays cover topics such as medical cases, emancipations, hospitals, and segregation just to name a few. The analysis itself comes from every conceivable perspective thus providing a clear picture of each topic.
-
-The project overall is a remarkable resource that shines a light on the environment in Washington during the Civil War. It allows for in depth research into individuals, as well as providing a comprehensive overview of large subject matters.
-
-### Credit
-This project was published by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln. The publishing was released under a Creative Commons License and the rights to the images and documents presented are owned by various individuals and institutions. The publishing was released under a Creative Commons License and The National Endowment for the Humanities and the University of Nebraska–Lincoln funded this project.
