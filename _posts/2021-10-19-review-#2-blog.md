@@ -8,18 +8,20 @@
 
 ![Homepage of Land-Grab Universities](https://brenanabread99.github.io/Brenanabread/images/screenshot2.png)
 
-Civil War Washington both *archives* and *interprets* **data, texts, maps, and visual works** from Washington D.C. during the Civil War. The project seeks to display the rapid transition which occurred in Washington once the Civil War broke out. It reveals the perspectives of individuals from all walks of life and their experiences within the city.
+Land-Grab Universities creates a detailed acount of how the United States funded land-grant universities with land taken from Indigenous people groups. The project seeks to display how land granted to the universities was unfairly taken from indigenos people and used to fund universites that may be thousands of miles away.. It reveals how in every case the land turned an exponetial profit for university funding while the those forced off the land received little to no compensation.
 
 ### *Design*
 
-The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project's homepage features an easy-to-navigate display of all the tabs available to users. Once a tab is selected, readers are instructed upon the purpose of the tab at the top of each webpage. This feature greatly helps readers by preventing them from scanning the full webpage in search of its purpose. In addition, while using the site, a toolbar is accessible at the top of each webpage providing access to other tabs. This design allows readers to explore the site without the difficulty of getting lost along the way. 
+The project equips the proper coding to allow ease of use on laptops, desktops, phones, and tablets. The project itself organizes the vast amont of information it provides into several different tabs. The tabs consist of the following: *Overview, Universities, Nations, Lands, and Stories*. This design helps readers find the information they are seeking without having to search through the whole site.  
 
 
-![Design of site example](https://brenanabread99.github.io/Brenanabread/images/design2.png)
+![Design of site example](https://brenanabread99.github.io/Brenanabread/images/design4.png)
 
 ### *Findings*
 
-Civil War Washington exposes readers to an exponential amount of data and resources in organized tabs that are easy to navigate. The **Introduction tab** design sets the scene for wartime Washington through extensive narrative texts and ellaborates on the countless resources used for the project. The information provided here lays the necessary groundwork needed in understanding the resources provided within the other tabs.
+Land-grab Universities **overview tab** is the first tab displayed when users first enter the site. The site's purpose is then easily explained through the use of a map which instructs users to scroll through it. As this is done, the map changes as users scroll through diffent series of text. 
+
+![Progression of changing Map](https://brenanabread99.github.io/Brenanabread/images/usmap1.png)(https://brenanabread99.github.io/Brenanabread/images/usmap2.png)(https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
 
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
