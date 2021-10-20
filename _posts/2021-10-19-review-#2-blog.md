@@ -26,9 +26,13 @@ Land-grab Universities **overview tab** is the first tab displayed when users fi
 Once users scroll past this first feature on the **overview tab**, A brief introduction is provided. It provides a wealth of information that may overwhelm the average reader. It also condences the topic into three brief and concise paragraghs. While this may seem helpful, the information provided is not simplified and if misunderstood, the rest of the site will not be understandable.
 
 On a more positive note, a toolbar appears at the top of the screen once the initial introduction section is scrolled past. The toolbar enables users to jump to differnt tabs.
+
 ![Picture of toolbar which appears](https://brenanabread99.github.io/Brenanabread/images/toolbar.png)
 
-As users scroll past the introduction, they come across an interative map. 
+As users scroll past the introduction, they come across an interative map. The map itself displays the land-grants provided to 52 different universities. These thousands of parcels of land all across the country could then be sold to fund the building of the universities. The lines branching across the map demonstrate the distance between the universities and the parcels of land they were granted to sell. The map is very visually appealing. However, as mentioned earlier, if the breif introduction is misunderstood, the map is not going to be remotely understandable. 
+
+![Interactive Map](https://brenanabread99.github.io/Brenanabread/images/colormap.png)
+
 The **Maps tab** contains information regarding both the maps’ purpose and how to interact with the map itself. An addition which is incredibly helpful considering the complexity of the map and its many features. The map itself is very visually appealing and puts into perspective the landscape of wartime Washington. 
 
 ![Map of Civil War Washington](https://brenanabread99.github.io/Brenanabread/images/Map4.png)
