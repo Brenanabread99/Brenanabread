@@ -21,7 +21,7 @@ The project equips the proper coding to allow ease of use on laptops, desktops, 
 
 Land-grab Universities **overview tab** is the first tab displayed when users first enter the site. The site's purpose is then easily explained through the use of a map which instructs users to scroll through it. As this is done, the map changes as users scroll through different series of text. The progression of a few map changes is shown below.
 
-![Progression of changing Map 1 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap1.png)![Progression of changing Map 2 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap2.png)![Progression of changing Map 3 of 3](https://brenanabread99.github.io/Brenanabread/images/usmap3.png)
+![Progression of changing Map 1 of 3](https://brenanabread99.github.io/Brenanabread/images/mappic.png)!
 
 Once users scroll past this first feature on the **overview tab**, A brief introduction is provided. It provides a wealth of information that may overwhelm the average reader. It also condenses the topic into three brief and concise paragraphs. While this may seem helpful, the information provided is not simplified and if misunderstood, the rest of the site will not be understandable.
 
