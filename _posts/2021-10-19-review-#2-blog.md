@@ -41,7 +41,7 @@ Although the designers of the map clearly put a great deal of effort into the ma
  
 In addition to the **overview tab**, there are also the **Universities, Nations, Lands, and Stories tabs**. The **Universities, Nations, and Lands tabs** displays the costs for parcels of land and how much universities profited from them. These three tabs display massive amounts of data through the perspectives of each parcel of land, how much universities profited, and the severity of which tribal nations were under compensated. 
 
-![Interactive Map with notes](https://brenanabread99.github.io/Brenanabread/images/stats.png)
+![Interactive Map with notes](https://brenanabread99.github.io/Brenanabread/images/stats2.png)
 
 Under the **Stories tab**, background is provided upon how the different tribal nations were treated and how they were forced off their land. These four tabs allow readers to receive the full and complete perspective of the effects of Land-Grant Universities.
 
