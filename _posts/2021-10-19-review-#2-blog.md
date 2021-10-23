@@ -45,4 +45,4 @@ In addition to the **overview tab**, there are also the **Universities, Nations,
 
 Under the **Stories tab**, background is provided upon how the different tribal nations were treated and how they were forced off their land. These four tabs allow readers to receive the full and complete perspective of the effects of Land-Grant Universities.
 
-This project provides an in-depth look at the effect higher education universities had upon tribal nations. It allows readers to fully grasp how severly mistreatmented tribal nations were. It also sheads light upon how wrongfully their land was taken from them for the sake of universities thousands of miles away.
+This project provides an in-depth look at the effect higher education universities had upon tribal nations. It allows readers to fully grasp how severly mistreatmented tribal nations were and also sheads light upon how wrongfully their land was taken from them for the sake of universities thousands of miles away.
