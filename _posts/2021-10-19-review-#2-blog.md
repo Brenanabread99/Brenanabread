@@ -35,7 +35,7 @@ As users scroll past the introduction, they come across an interactive map. The 
  
 Even in light of this, the map has several helpful ways it can be interacted with. The map allows users to see an overview of the land-grants provided in the United States and also those granted to individual states. The map can be toggled between a plain black map and a satellite map and users can add/remove state boundaries, Indigenous Cessions, and Land-University Links. Furthermore, a user's location can be accessed so readers can view land-grants in their own area. 
 
-![Interactive Map with notes](https://brenanabread99.github.io/Brenanabread/images/mapnotes.png)
+![Interactive Map with notes](https://brenanabread99.github.io/Brenanabread/images/mapnotes2.png)
 
 Although the designers of the map clearly put a great deal of effort into the map, there are still a few flaws. The map cannot be placed into full screen and this feature could greatly improve a user's experience. Additionally, map modifications are displayed on the map itself thus impairing the view. Allowing these modifications to be hidden would greatly improve the map's functionality. 
  
