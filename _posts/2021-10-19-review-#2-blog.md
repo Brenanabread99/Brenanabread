@@ -39,5 +39,9 @@ Even in light of this, the map has several helpful ways it can be interacted wit
 
 Although the designers of the map clearly put a great deal of effort into the map, there are still a few flaws. The map cannot be placed into full screen and this feature could greatly improve a user's experience. Additionally, map modifications are displayed on the map itself thus impairing the view. Allowing these modifications to be hidden would greatly improve the map's functionality. 
  
-In addition to the **overview tab**, there are also the **Universities, Nations, Lands, and Stories tabs**. The **Universities, Nations, and Lands tabs** displays the costs for parcels of land and how much universities profited from them. These three tabs display massive amounts of data through the perspectives of each parcel of land, how much universities profited, and the severity of which tribal nations were under compensated. Under the **Stories tab**, background is provided upon how the different tribal nations were treated and how they were forced off their land. These four tabs allow readers to receive the full and complete perspective of the effects of Land-Grant Universities.
+In addition to the **overview tab**, there are also the **Universities, Nations, Lands, and Stories tabs**. The **Universities, Nations, and Lands tabs** displays the costs for parcels of land and how much universities profited from them. These three tabs display massive amounts of data through the perspectives of each parcel of land, how much universities profited, and the severity of which tribal nations were under compensated. 
+
+![Interactive Map with notes](https://brenanabread99.github.io/Brenanabread/images/stats.png)
+
+Under the **Stories tab**, background is provided upon how the different tribal nations were treated and how they were forced off their land. These four tabs allow readers to receive the full and complete perspective of the effects of Land-Grant Universities.
 
