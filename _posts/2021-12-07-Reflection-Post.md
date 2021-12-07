@@ -24,6 +24,9 @@ The choice to use twitter as the platform for our discussion posts made it astro
 
 The readings were almost always fun to read through. The reading about eye scanning patterns I found the most helpful and relatable. It really taught me the best ways to grab a reader's attention. It also made me consider the different ways people scan documents and how it varies depending upon their motivation for reading. The most interesting reading involved learning about CNU. I found it fascinating the racial basis for the founding of the school. While I often learn of the racial injustices of the past, it’s easy to disassociate from it and subconsciously think those things did not happen where I live. This reading pulled off the veil from that idea and struck really close to home.
 
+![Webpage for eye Tracking](https://brenanabread99.github.io/Brenanabread/images/eyemap.png)
+
+
 The only complaint I suppose I have regarding the readings is it was very easy to simply not do all of them. I often would forget and then remember I was supposed to do them once class began. I would always do at least one or two a week for discussion board purposes, but aside from that I wish at times that I could have done more. 
 
 ## Conclusion
