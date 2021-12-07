@@ -2,7 +2,9 @@
 
 Over the course of this semester, I have learned numerous things in this Digital Humanities class. For starters, I gained a basic understanding of what Digital Humanities even means. If I had been asked prior to this semester to provide a definition of what DH is, I would have said it simply sounds like the digitalization of art. 
 
-However, I have since come to learn that DH is so much more than that. Simply put, Digital Humanities is taking large amounts of data and creatively displaying it in an interesting, interactive, and engaging way. These humanities projects typically use digital interactive maps and visually stimulating presentations of data. They are often for educational purposes and are almost always open access to bring awareness to different topics.
+However, I have since come to learn that DH is so much more than that. Simply put, Digital Humanities is taking large amounts of data and creatively displaying it in an interesting, interactive, and engaging way. These humanities projects typically use digital interactive maps and visually stimulating presentations of data (Example shown below). They are often for educational purposes and are almost always open access to bring awareness to different topics.
+
+![Interactive Map](https://brenanabread99.github.io/Brenanabread/images/colormap.png)
      
 ## Creating My Own Project
 
@@ -22,7 +24,7 @@ Twitter is another program I was privileged to engage with weekly. I learned how
 
 The choice to use twitter as the platform for our discussion posts made it astronomically easier and actually fairly fun at times. It was such a relief to have a character limit and a need to be concise. Often with discussion boards they are just annoying busy work assigned in classes. In contrast, through the use of twitter, these discussion board posts led to students becoming more connected and led to students enjoying responding to each other.
 
-The readings were almost always fun to read through. The reading about eye scanning patterns I found the most helpful and relatable. It really taught me the best ways to grab a reader's attention. It also made me consider the different ways people scan documents and how it varies depending upon their motivation for reading. The most interesting reading involved learning about CNU. I found it fascinating the racial basis for the founding of the school. While I often learn of the racial injustices of the past, it’s easy to disassociate from it and subconsciously think those things did not happen where I live. This reading pulled off the veil from that idea and struck really close to home.
+The readings were almost always fun to read through. The reading about eye scanning patterns I found the most helpful and relatable. It really taught me the best ways to grab a reader's attention. It also made me consider the different ways people scan documents and how it varies depending upon their motivation for reading. Displayed below is an example of this showing the eye tracking pattern of someone who is either looking for a certain word in a text or certain words visually stand out from others. The most interesting reading involved learning about CNU. I found it fascinating the racial basis for the founding of the school. While I often learn of the racial injustices of the past, it’s easy to disassociate from it and subconsciously think those things did not happen where I live. This reading pulled off the veil from that idea and struck really close to home.
 
 ![Webpage for eye Tracking](https://brenanabread99.github.io/Brenanabread/images/eyemap.png)
 
