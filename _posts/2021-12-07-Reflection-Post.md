@@ -1,4 +1,4 @@
-     ## Defining Digital Humanities
+## Defining Digital Humanities
 
 Over the course of this semester, I have learned numerous things in this Digital Humanities class. For starters, I gained a basic understanding of what Digital Humanities even means. If I had been asked prior to this semester to provide a definition of what DH is, I would have said it simply sounds like the digitalization of art. 
 
